@@ -1,6 +1,6 @@
-# {Resort Website}
-#### {This website will help people who want to relax in summer season}, {7/12/2018}
-#### By **{Moringa School,We code program}**
+# Resort Website
+#### This website will help people who want to relax in summer season, 7/12/2018
+#### By **Moringa School,We code program**
 ## Description
 {This website will help people to access so many different activities in case of relaxation,We have restaurent,beach,accomodation,Main bar,travel agency and places for children.It is located in Rwanda,Kigali city.You are all invited.Thank you!! }
 ## Setup/Installation Requirements
