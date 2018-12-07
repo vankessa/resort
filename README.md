@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Resort Website}
+#### {This website will help people who want to relax in summer season}, {7/12/2018}
+#### By **{Moringa School,We code program}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This website will help people to access so many different activities in case of relaxation,We have restaurent,beach,accomodation,Main bar,travel agency and places for children.It is located in Rwanda,Kigali city.You are all invited.Thank you!! }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -13,10 +13,10 @@
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+I used HTML and CSS.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+I would ask if there is any question related to my project,if there is feel free to ask me,and also give me ideas about how i can improve it.Thank you!
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **{Ujeneza Vanessa,We code Moringa School}**
   
